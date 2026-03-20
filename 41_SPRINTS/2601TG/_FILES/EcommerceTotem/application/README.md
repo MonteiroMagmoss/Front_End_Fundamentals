@@ -8,6 +8,10 @@ Acesso para Cliente:
   - email: cliente@cliente.com
   - senha: 123 
 
+Recomendado usar o layout de iPad Pro (1024x1366)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
